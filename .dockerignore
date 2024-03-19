@@ -1,0 +1,10 @@
+# Entorno virtual de Python
+**/venv
+**/env
+
+# Archivos de caché
+**/__pycache__
+**/*.pyc
+
+# Archivos de registro
+**/*.log
